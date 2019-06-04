@@ -7,5 +7,8 @@
     <?php  include('header.php'); ?>
     <br>
     <?php  include('mainMenu.php'); ?>
+    <br>
+    <br>
+
   </body>
 </html>
